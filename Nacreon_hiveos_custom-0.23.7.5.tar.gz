@@ -1,1 +1,0 @@
-Добавил нормальный вывод лога работы для майнеров использующих майнинг в простое. Параметр запуска: nacreon --pool prl.kryptex.network:7048 --wallet prl1pg692x28srm99x4h5nru4y9p8ynes4uy3m3rx64z4u8889efs66yqwf655j --worker %WORKER_NAME% --log
